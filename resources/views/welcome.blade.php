@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="">download</a>
+                    <a href="/download/test.txt">download</a>
                 </div>
             </div>
         </div>
